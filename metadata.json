@@ -1,0 +1,6 @@
+{
+  "name": "StyleVibe",
+  "description": "A highly curated, professional and minimalist e-commerce shopping experience with a high-contrast dark mode theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
